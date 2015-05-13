@@ -73,5 +73,6 @@
     <module>ultradns-ws</module>
     <module>dynect</module>
     <module>enterprisechef</module>
+    <module>vsphere</module>
   </modules>
 </project>
